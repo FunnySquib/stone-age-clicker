@@ -1,3 +1,4 @@
 # stone-age-clicker
 stone age clicker 
-im not done but i will post all the code and progress i have made here
+make sure to put it on a site you cant run this off your computer
+
